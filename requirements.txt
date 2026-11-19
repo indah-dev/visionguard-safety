@@ -1,7 +1,5 @@
 streamlit
-inference-sdk
+ultralytics
 opencv-python-headless
-pandas
-fpdf2
-requests
 numpy
+Pillow
